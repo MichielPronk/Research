@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This script extracts bicylce theft, other theft and total theft per city from a .csv file.
+# This script extracts bicylce theft number, other theft numbers and total theft number for the city of Groningen and Almere from a .csv file.
 # In order to make it executable, download this script, then type chmod u+x extractor.sh in the command line.
 # To use it with a file, type ./extractor.sh and the filename you want to use. 
 
